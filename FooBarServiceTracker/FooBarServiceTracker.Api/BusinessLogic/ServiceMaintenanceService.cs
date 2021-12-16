@@ -1,6 +1,6 @@
 ﻿using FooBarServiceTracker.Api.BusinessLogic.Interfaces;
 using FooBarServiceTracker.Api.DataAccess;
-using FooBarServiceTracker.Api.Entities;
+using FooBarServiceTracker.Api.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace FooBarServiceTracker.Api.BusinessLogic

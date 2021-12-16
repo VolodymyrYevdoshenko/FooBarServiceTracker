@@ -1,4 +1,4 @@
-﻿using FooBarServiceTracker.Api.Entities;
+﻿using FooBarServiceTracker.Api.Infrastructure.Entities;
 
 namespace FooBarServiceTracker.Api.BusinessLogic.Interfaces
 {

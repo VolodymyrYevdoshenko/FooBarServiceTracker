@@ -3,7 +3,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using FooBarServiceTracker.Api.BusinessLogic;
 using FooBarServiceTracker.Api.DataAccess;
-using FooBarServiceTracker.Api.Entities;
+using FooBarServiceTracker.Api.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

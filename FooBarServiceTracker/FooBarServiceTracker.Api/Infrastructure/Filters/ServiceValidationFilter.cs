@@ -1,6 +1,6 @@
 ﻿using System.Net.Mail;
 using System.Text.RegularExpressions;
-using FooBarServiceTracker.Api.Dtos;
+using FooBarServiceTracker.Api.Infrastructure.Dtos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 

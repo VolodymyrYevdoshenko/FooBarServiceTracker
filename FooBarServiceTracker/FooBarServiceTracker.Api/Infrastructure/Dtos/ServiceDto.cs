@@ -1,4 +1,4 @@
-﻿namespace FooBarServiceTracker.Api.Dtos
+﻿namespace FooBarServiceTracker.Api.Infrastructure.Dtos
 {
     public class ServiceDto
     {

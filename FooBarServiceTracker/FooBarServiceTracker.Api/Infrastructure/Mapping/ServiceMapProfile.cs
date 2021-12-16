@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using FooBarServiceTracker.Api.Dtos;
-using FooBarServiceTracker.Api.Entities;
+using FooBarServiceTracker.Api.Infrastructure.Dtos;
+using FooBarServiceTracker.Api.Infrastructure.Entities;
 
 namespace FooBarServiceTracker.Api.Infrastructure.Mapping
 {

@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 using AutoMapper;
 using FooBarServiceTracker.Api.BusinessLogic.Interfaces;
-using FooBarServiceTracker.Api.Dtos;
-using FooBarServiceTracker.Api.Entities;
+using FooBarServiceTracker.Api.Infrastructure.Dtos;
+using FooBarServiceTracker.Api.Infrastructure.Entities;
 using FooBarServiceTracker.Api.Infrastructure.Filters;
 using Microsoft.AspNetCore.Mvc;
 

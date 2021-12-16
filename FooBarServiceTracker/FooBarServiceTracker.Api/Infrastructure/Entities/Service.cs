@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace FooBarServiceTracker.Api.Entities
+namespace FooBarServiceTracker.Api.Infrastructure.Entities
 {
     public class Service : EntityBase
     {

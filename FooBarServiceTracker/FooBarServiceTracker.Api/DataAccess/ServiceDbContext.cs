@@ -1,5 +1,4 @@
-﻿
-using FooBarServiceTracker.Api.Entities;
+﻿using FooBarServiceTracker.Api.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 
