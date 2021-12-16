@@ -30,7 +30,7 @@ Possible improvements for future:
 * Create a SQL server database or use existing and add table Services. See Services.sql in the root folder for example. 
 * Put connection string of DB to the appsettings.json file in “ServiceDbContext” sections.
  
- To run the application: 
+ To run the application you can use of one the next two ways: 
 - Run command “dotnet run” in command line inside API folder.
 - Run docker container using dockerfile from API. 
 
