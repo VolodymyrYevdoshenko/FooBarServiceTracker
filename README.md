@@ -28,9 +28,10 @@ Possible improvements for future:
  Deployment of application: 
 
 * Create a SQL server database or use existing and add table Services. See Services.sql in the root folder for example. 
-* Put connection string of DB to the appsettings.json file in ìServiceDbContextî sections.
-* To run the application: 
-- Run command ìdotnet runî in command line inside API folder.
+* Put connection string of DB to the appsettings.json file in ‚ÄúServiceDbContext‚Äù sections.
+ 
+ To run the application: 
+- Run command ‚Äúdotnet run‚Äù in command line inside API folder.
 - Run docker container using dockerfile from API. 
 
 * Go to https://localhost:7032/swagger/index.html to use API via Swagger.
